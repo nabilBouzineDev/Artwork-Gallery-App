@@ -1,6 +1,40 @@
 <resources>
     <string name="app_name">Art Space</string>
+
+
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+
+    <!-- Gallery related Data -->
     <string name="artwork_title_01">Graffiti, Wall, Mural</string>
     <string name="artwork_artist_01">MMT</string>
     <string name="artwork_year_01">(2014)</string>
+
+    <string name="artwork_title_02">Floating Candles</string>
+    <string name="artwork_artist_02">Adrianne Walujo</string>
+    <string name="artwork_year_02">(2019)</string>
+
+    <string name="artwork_title_03">Log Cabin House</string>
+    <string name="artwork_artist_03">Natasya Chen</string>
+    <string name="artwork_year_03">(2019)</string>
+
+    <string name="artwork_title_04">Abstract Colorful Art</string>
+    <string name="artwork_artist_04">Ksv Gracis</string>
+    <string name="artwork_year_04">(2022)</string>
+
+    <string name="artwork_title_05">Modern Artwork</string>
+    <string name="artwork_artist_05">Henry &amp; Co</string>
+    <string name="artwork_year_05">(2019)</string>
+
+    <string name="artwork_title_06">Heart Love Artwork</string>
+    <string name="artwork_artist_06">Darockart</string>
+    <string name="artwork_year_06">(2023)</string>
+
+    <string name="artwork_title_07">Jellyfish Sketch</string>
+    <string name="artwork_artist_07">BananaPeels</string>
+    <string name="artwork_year_07">(2022)</string>
+
+    <string name="artwork_title_08">IceCream Cone Hand</string>
+    <string name="artwork_artist_08">freeillustrated</string>
+    <string name="artwork_year_08">(2017)</string>
 </resources>
