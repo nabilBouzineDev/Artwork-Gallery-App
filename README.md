@@ -1,7 +1,7 @@
 # Artwork-Gallery-App
 ![Read_Me_Preview](https://github.com/nabilBouzineDev/Artwork-Gallery-App/assets/139881384/76dba2f3-f273-4ab8-af14-3bb769b7bebe)
 
- A simple app to practice previous google codelabs with concepts likes: _**Creating a low-fidelity prototype**_, _**basic compose layouts**_ and **_buttons click behavior_**.
+ A simple app to practice previous google codelabs with concepts likes: _**creating a low-fidelity prototype**_, _**composition & recomposition**_, _**state hoisting**_, _**basic compose layouts**_ and **_buttons click behavior_**.
 
  # Resources
  The main resource to get started with this project:
