@@ -75,24 +75,6 @@ fun ArtSpaceLayout() {
             contentAlignment = Alignment.BottomCenter
         ) {
 
-            /*
-            - Click Behaviour:
-            - PseudoCode:
-                - define and remember a state by as a result equal to 1
-                - define and remember the next click behaviour of this result as nextClicked
-                - define and remember the previous click behaviour of this result as prevClicked
-                    ( update result to 8)
-
-                - when the result is equal to:
-                    - 1: nextClicked { update result to 2}, prevClicked { update result to 1 }
-                    - 2: nextClicked { update result to 3}, prevClicked { update result to 2 }
-                    - 3: nextClicked { update result to 4}, prevClicked { update result to 3 }
-                    - 4: nextClicked { update result to 5}, prevClicked { update result to 4 }
-                    - 5: nextClicked { update result to 6}, prevClicked { update result to 5 }
-                    - 6: nextClicked { update result to 7}, prevClicked { update result to 6 }
-                    - 7: nextClicked { update result to 8}, prevClicked { update result to 7 }
-                    - else: nextClicked { update result to 1}, prevClicked { update result to 7 }
-            */
             when (result) {
                 1 -> {
                     ArtworkWall(
